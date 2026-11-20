@@ -1,0 +1,10 @@
+bin/
+obj/
+.vs/
+*.user
+appsettings.Local.json
+__pycache__/
+reference/
+runs/
+trader/*.json
+trader/state/*.json

@@ -1,0 +1,11 @@
+{
+  "enabled": true,
+  "paper_mode": true,
+  "max_capital_per_trade": 20000,
+  "max_open_positions": 3,
+  "min_score": 80,
+  "stop_loss_percent": 2.0,
+  "target_percent": 4.0,
+  "exchange": "NSE",
+  "flat_by": "15:20"
+}
